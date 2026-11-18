@@ -17,21 +17,23 @@
 - I care about reliable backends, thoughtful interfaces, and software that solves real problems.
 - I am open to software-development opportunities and product collaborations.
 
-## Professional Projects
+## Work Experience
 
-### 🎓 [Edu-nex / Skillomate](https://github.com/Office50505/Edu-nex_Final)
+### 🎓 Edu-nex / Skillomate — Full-Stack & Mobile Development
 
-A cross-platform learning ecosystem with course discovery and playback, secure media, AI-assisted learning, subscriptions, and production-ready mobile and web experiences.
+Built and shipped a cross-platform learning ecosystem with course discovery and playback, secure media, an AI tutor, subscriptions, and production-ready mobile and web experiences.
 
 `React` `React Native` `Expo` `Node.js` `MongoDB` `AWS` `AI Tutor` `In-App Purchases`
 
-[View live web app](https://edu-nex-final.vercel.app/)
+[Live Product](https://edu-nex-final.vercel.app/) • [Public Repository](https://github.com/Office50505/Edu-nex_Final)
 
-### 👗 [Lookmefy](https://github.com/Office50505/fit-look-APP)
+### 👗 Lookmefy — Full-Stack & AI Product Development
 
-An AI-powered fashion platform for virtual try-ons, digital wardrobe management, personalized outfit recommendations, product discovery, and image and video generation.
+Built an AI-powered fashion platform for virtual try-ons, digital wardrobe management, personalized outfit recommendations, product discovery, and image and video generation.
 
 `React Native` `Expo` `Node.js` `Express` `MongoDB` `Redis` `OpenAI` `AI Vision`
+
+[Live Product](https://lookmefy.in/) • [Public Repository](https://github.com/Office50505/fit-look-APP)
 
 ## Personal & Hackathon Projects
 
