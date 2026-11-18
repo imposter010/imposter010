@@ -27,6 +27,14 @@ Built and shipped a cross-platform learning ecosystem with course discovery and 
 
 [Live Product](https://edu-nex-final.vercel.app/) • [Public Repository](https://github.com/Office50505/Edu-nex_Final)
 
+### 🗂️ Skillomate CRM & Media Manager — Full-Stack & Cloud Development
+
+Built a production-oriented administration platform for direct multipart uploads, AWS MediaConvert HLS processing, course and learner-app publishing, thumbnail management, audit logs, secure media previews, and protected S3 operations.
+
+`React` `TypeScript` `Fastify` `Prisma` `PostgreSQL` `AWS S3` `MediaConvert` `CloudFront`
+
+[Skillomate Platform](https://skillomate.in/)
+
 ### 👗 Lookmefy — Full-Stack & AI Product Development
 
 Built an AI-powered fashion platform for virtual try-ons, digital wardrobe management, personalized outfit recommendations, product discovery, and image and video generation.
@@ -48,6 +56,8 @@ A MERN-based API gateway that observes real upstream traffic, detects contract d
 A cross-platform GST invoicing application with revenue analytics, client management, automatic tax calculations, invoice status tracking, and PDF export and sharing.
 
 `React Native` `Expo` `TypeScript` `AsyncStorage`
+
+[Live Product](https://crm-bill-generator-server.vercel.app/)
 
 ### 🏋️ [BMI Training & Diet Planner](https://github.com/imposter010/BMI-Training-Dirt_planner)
 
