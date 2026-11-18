@@ -13,11 +13,27 @@
 
 - I build end-to-end products with **React, React Native, TypeScript, and Node.js**.
 - I enjoy working on **APIs, AI integrations, business automation, and clean user experiences**.
-- My projects include developer infrastructure, cross-platform invoicing, and fitness planning tools.
+- My projects include AI-powered education and fashion platforms, developer infrastructure, cross-platform invoicing, and fitness planning tools.
 - I care about reliable backends, thoughtful interfaces, and software that solves real problems.
 - I am open to software-development opportunities and product collaborations.
 
-## Featured Projects
+## Professional Projects
+
+### 🎓 [Edu-nex / Skillomate](https://github.com/Office50505/Edu-nex_Final)
+
+A cross-platform learning ecosystem with course discovery and playback, secure media, AI-assisted learning, subscriptions, and production-ready mobile and web experiences.
+
+`React` `React Native` `Expo` `Node.js` `MongoDB` `AWS` `AI Tutor` `In-App Purchases`
+
+[View live web app](https://edu-nex-final.vercel.app/)
+
+### 👗 [Lookmefy](https://github.com/Office50505/fit-look-APP)
+
+An AI-powered fashion platform for virtual try-ons, digital wardrobe management, personalized outfit recommendations, product discovery, and image and video generation.
+
+`React Native` `Expo` `Node.js` `Express` `MongoDB` `Redis` `OpenAI` `AI Vision`
+
+## Personal & Hackathon Projects
 
 ### 🔥 [API Phoenix](https://github.com/imposter010/The-Internet-After-The-Api)
 
