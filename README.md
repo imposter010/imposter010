@@ -2,12 +2,21 @@
 
 # Hi, I'm Ali Hussain 👋
 
-### Full-Stack Developer building reliable APIs, cross-platform applications, and practical automation
+### Full-Stack & AI Product Developer building intelligent systems, cross-platform apps, reliable APIs, and cloud automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hussain-29494a330/)
-[![Live Project](https://img.shields.io/badge/Live_Project-BMI_Planner-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://bmi-training-dirt-planner.vercel.app/)
 
 </div>
+
+## Live Products
+
+| Product | What it delivers | Launch |
+| --- | --- | --- |
+| **Edu-nex / Skillomate** | AI-assisted learning, secure course streaming, subscriptions, and cross-platform education | [Open product](https://edu-nex-final.vercel.app/) |
+| **Lookmefy** | AI fashion discovery, virtual try-ons, digital wardrobe, and personal styling | [Open product](https://lookmefy.in/) |
+| **Skillomate CRM & Media Manager** | Cloud media operations, HLS conversion, thumbnails, audits, and learner-app publishing | [View ecosystem](https://skillomate.in/) |
+| **CRM Bill Generator** | GST invoicing, client management, billing analytics, and PDF sharing | [Open product](https://crm-bill-generator-server.vercel.app/) |
+| **BMI Training & Diet Planner** | BMI-based fitness, training, and diet planning | [Open product](https://bmi-training-dirt-planner.vercel.app/) |
 
 ## About Me
 
@@ -42,6 +51,15 @@ Built an AI-powered fashion platform for virtual try-ons, digital wardrobe manag
 `React Native` `Expo` `Node.js` `Express` `MongoDB` `Redis` `OpenAI` `AI Vision`
 
 [Live Product](https://lookmefy.in/) • [Public Repository](https://github.com/Office50505/fit-look-APP)
+
+## AI & Intelligent Systems
+
+- **NEX AI Tutor:** built consent-aware learning assistance with relevant course context using **fal.ai, OpenRouter, Google Gemini, and GPT-class models**.
+- **AI Content & RAG Pipeline:** created resumable Hindi-English lesson transcription with **fal.ai Wizper**, Roman-script Hinglish conversion with **GPT-4o-mini**, timestamped quality controls, and RAG-ready JSONL chunks with retrieval metadata.
+- **Lookmefy AI:** integrated virtual try-on, wardrobe image understanding, personalized styling, and image/video generation using **OpenAI Responses, AI vision, fal.ai, FitRoom, and Pruna** workflows.
+- **API Phoenix Intelligence:** used **Groq/OpenAI structured analysis** for API-drift classification and restricted repair recommendations, while keeping deterministic validation as the execution authority.
+
+`OpenAI` `GPT-4o-mini` `Groq` `Google Gemini` `fal.ai` `Wizper` `OpenRouter` `RAG` `AI Vision` `Structured AI Output`
 
 ## Personal & Hackathon Projects
 
